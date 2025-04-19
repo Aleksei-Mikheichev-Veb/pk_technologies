@@ -66,12 +66,6 @@ const App = () => {
   }, [autoRefresh, isEnabled]);
 
 
-  // useEffect(() => {
-  //   if (isEnabled) {
-  //     fetchCat();
-  //   }
-  // }, [isEnabled]);
-
   const toggleEnabled = () => {
     const newValue = !isEnabled;
     setIsEnabled(newValue);
