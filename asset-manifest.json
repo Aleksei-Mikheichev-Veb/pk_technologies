@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pk_technologies/static/css/main.e6c13ad2.css",
+    "main.js": "/pk_technologies/static/js/main.dd2ef3df.js",
+    "static/media/cat.svg": "/pk_technologies/static/media/cat.b8a2028e2297f8dbb3df9bac915a7dfc.svg",
+    "index.html": "/pk_technologies/index.html",
+    "main.e6c13ad2.css.map": "/pk_technologies/static/css/main.e6c13ad2.css.map",
+    "main.dd2ef3df.js.map": "/pk_technologies/static/js/main.dd2ef3df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dd2ef3df.js"
+  ]
+}
